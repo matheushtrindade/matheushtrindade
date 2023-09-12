@@ -13,5 +13,5 @@
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushtrindade&show_icons=true&theme=dracula&locale=en" alt="matheushtrindade" />
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoths&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tiagoths" /> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheushtrindade&show_icons=true&theme=dracula&locale=en&layout=compact" alt="matheushtrindade" /> -->
 </div>
